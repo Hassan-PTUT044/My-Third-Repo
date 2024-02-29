@@ -4,6 +4,6 @@ int main ()
 {
 cout << "My name is: Muhammad Hassan" << endl;
 cout << "My roll number is: 23-set-044" << endl;
-cout << "The sub of two numbers is: " << a-b << endl;
+cout << "The Product of two numbers is: " << a*b << endl;
 return 0;
 }
